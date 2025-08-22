@@ -1,5 +1,5 @@
 
-Tiny, self-contained CRM sandbox to learn/practice real interview tasks:
+Tiny, self-contained CRM:
 
 Data hygiene: normalize, dedupe (hash + union-find), merge+diff, upsert, external sync
 
